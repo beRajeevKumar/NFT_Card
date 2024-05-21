@@ -28,8 +28,6 @@ Users should be able to:
 
 ![Solution Screenshot](./design/desktop-design.jpg)
 
-### Links
-
 ### Useful Links
 
 - Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/NFT_Card.git).
