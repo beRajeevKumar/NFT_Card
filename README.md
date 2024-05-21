@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Useful Links
 
-- Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/Social_Proof.git).
-- Live Site URL: [Visit Live](https://socialproof-rajeev.netlify.app/).
+- Solution URL: [Checkout Repository](https://github.com/beRajeevKumar/NFT_Card.git).
+- Live Site URL: [Visit Live](https://nftcard-rajeev.netlify.app/).
 - Blog Post URL: [Read Blog](https://www.iamrajeev.me/blog/qr-code-component-using-html-and-css).
 
 ## My process
@@ -49,29 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned how to create a responsive design using CSS Grid and Flexbox. I learn about pseudo-elements and pseudo-classes in CSS. I also learned how to use media queries to make my design responsive. I also learned about pseudo properties like :hover, :active, etc in CSS and use them in this project.
 
 ### Continued development
 
